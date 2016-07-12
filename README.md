@@ -1,3 +1,9 @@
+首先申明：这是原地址https://github.com/Skykai521/StickerCamera，原来jdk是1.8，而且用到了retrolambda，修改为jdk1.7.
+原作者
+- [ouyezi](https://github.com/ouyezi)
+- [Skykai521](https://github.com/Skykai521)
+如有侵权，请及时通知
+
 # StickerCamera
 
 This is an Android application with camera,picture cropping,collage sticking and tagging.
@@ -53,32 +59,13 @@ This is an Android application with camera,picture cropping,collage sticking and
 - [android-common](https://github.com/Trinea/android-common)
 
 
-# Contributors
 
-- [ouyezi](https://github.com/ouyezi)
-- [Skykai521](https://github.com/Skykai521)
 
 # Apk Demo
 Change screenshot/StickerCamera.zip to StickerCamera.apk
 
 # Contact Me
+- Email: jinzhong276@126.com
 
-- Weibo: http://weibo.com/2030683111
-- Email: 1132234509@qq.com
 
-# License
-```
-Copyright 2015 DaQingkai
-
-Licensed under the Apache License, Version 2.0 (the "License");
-you may not use this file except in compliance with the License.
-You may obtain a copy of the License at
-
-    http://www.apache.org/licenses/LICENSE-2.0
-
-Unless required by applicable law or agreed to in writing, software
-distributed under the License is distributed on an "AS IS" BASIS,
-WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
-See the License for the specific language governing permissions and
-limitations under the License.
 ```
