@@ -1,4 +1,6 @@
-首先申明：这是原地址https://github.com/Skykai521/StickerCamera，原来jdk是1.8，而且用到了retrolambda，修改为jdk1.7.
+首先申明：这是原地址https://github.com/Skykai521/StickerCamera
+原来jdk是1.8，而且用到了retrolambda，修改为jdk1.7.
+
 原作者
 - [ouyezi](https://github.com/ouyezi)
 - [Skykai521](https://github.com/Skykai521)
